@@ -1,0 +1,13 @@
+*************************************************
+                   Data VIZ
+*************************************************
+
+#In this i have created few analysis viz by using seaborn, matplot , pandas and numpy
+#Major parts are
+   $ Histograms
+   $ Kernal Density estimate plots
+   $ Combining plot stlyes
+   $ Heatmaps and clustered matrices 
+   using Jupyter Labs
+   
+   
